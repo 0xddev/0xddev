@@ -36,7 +36,7 @@ My passion lies in **DeFi protocol architecture**, **smart contract integration*
 
 ## 💼 Experience & Projects
 
-🔗 **[Featured Projects](https://github.com/0xseidev/futured-projects)** - Explore my portfolio of blockchain, AI, and full-stack applications
+🔗 **[Featured Projects](https://github.com/0xddev/feature-projects)** - Explore my portfolio of blockchain, AI, and full-stack applications
 
 
 ## 🤝 Let's Build Together
@@ -45,7 +45,7 @@ My passion lies in **DeFi protocol architecture**, **smart contract integration*
   <a href="https://t.me/sei_dev" target="_blank">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="https://x.com/0xajee335" target="_blank">
+  <a href="https://x.com/ajee335" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
   <!-- Uncomment if needed
